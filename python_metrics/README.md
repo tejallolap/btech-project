@@ -1,6 +1,6 @@
 Metrics implemented without sklearn
 
-1. Confusion Matrix
-2. Balanced Accuracy Score
-3. Max error
-4. Hamming Loss
+1. Balanced Accuracy Score
+2. Max Error
+3. Hamming Loss
+4. Zero One Loss
