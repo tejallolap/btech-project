@@ -5,3 +5,4 @@ Metrics implemented without sklearn
 3. Hamming Loss
 4. Zero One Loss
 5. Mean Absolute Error
+6. Brier Loss Score
